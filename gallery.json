@@ -1,14 +1,14 @@
-data:[
+[
   {
     "gellery1": "https://code-with-vikram.github.io/react/DSC09227.webp",
-    "id": 1,
+    "id": 1
   },
   {
     "gellery2": "https://code-with-vikram.github.io/react/team-1.png",
-    "id": 2,
+    "id": 2
   },
   {
     "geller3": "https://code-with-vikram.github.io/react/DSC09227.webp",
-    "id": 3,
-  },
+    "id": 3
+  }
 ]
