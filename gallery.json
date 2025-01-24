@@ -1,14 +1,14 @@
 data:[
   {
-    "Image": "https://code-with-vikram.github.io/react/DSC09227.webp",
+    "gellery1": "https://code-with-vikram.github.io/react/DSC09227.webp",
     "id": 1,
   },
   {
-    "Image": "https://code-with-vikram.github.io/react/team-1.png",
+    "gellery2": "https://code-with-vikram.github.io/react/team-1.png",
     "id": 2,
   },
   {
-    "Image": "https://code-with-vikram.github.io/react/DSC09227.webp",
+    "geller3": "https://code-with-vikram.github.io/react/DSC09227.webp",
     "id": 3,
   },
 ]
